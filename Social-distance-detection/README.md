@@ -1,11 +1,10 @@
 # Social-distance-detection
 
-# For CPU:
 
 ## To run this code in your terminal:
 * ***Open your terminal**
-* ***Change directory to where you have downloaded this code***
-* ***Install python3 if you have not, if installed already then it's ok!***
+* ***Point the directory to curent working directory***
+* ***Install python3 if you have not.***
 * **Run**  `  python3 -m venv venv  ` ***to create a virtual environment named venv.***
 * **Run**   `  source venv/bin/activate  ` 
 ***to activate your environment!***
