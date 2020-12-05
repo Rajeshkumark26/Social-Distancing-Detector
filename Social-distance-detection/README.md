@@ -15,7 +15,7 @@
 ` ***to run your social distance detection project***
 
 #### After you run the last line of command,a window eill pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
-![Output avi gif](https://github.com/abd-shoumik/Social-distance-detection/blob/master/social%20distance%20detection.gif)
+![Output avi gif](https://github.com/Rajeshkumark26/Social-Distancing-Detector/blob/main/Social-distance-detection/ezgif.com-gif-maker.gif)
 
 
 ## Contacts:
