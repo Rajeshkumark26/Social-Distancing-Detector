@@ -1,6 +1,6 @@
 # USAGE
-# python social_distance_detector.py --input pedestrians.mp4
-# python social_distance_detector.py --input pedestrians.mp4 --output output.avi
+# python social_distance_detector.py --input social_dist.mp4
+# python social_distance_detector.py --input social_dist.mp4 --output output.avi
 
 # import the necessary packages
 from Detection_model import social_distancing_config as config
