@@ -1,9 +1,7 @@
 # Social-distance-detection
 
-
 #### I captured the video from Vellore Bus Terminus and given as input to this model.
-
-#### After you run the last line of command,a window eill pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
+#### output from the model:
 ![Output avi gif](https://github.com/Rajeshkumark26/Social-Distancing-Detector/blob/main/Social-distance-detection/ezgif.com-gif-maker.gif)
 
 
